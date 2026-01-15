@@ -1,4 +1,4 @@
-# Hastane Otomasyonu | C# WinForms
+# 🏥 Hastane Otomasyonu | C# WinForms
 
 Bu proje, **C# Windows Forms** kullanılarak geliştirilmiş, **SQL Server** destekli bir **Hastane Otomasyon Sistemi**dir.  
 Hasta, Doktor ve Sekreter rolleri için ayrı paneller sunarak randevu ve kullanıcı yönetimini gerçek hayata uygun bir senaryo ile ele alır.
